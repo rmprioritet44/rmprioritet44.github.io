@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="contact form example">
+    <title>Приоритет</title>
+</head>
+
+<body>
+<h2 class="content-head is-center">Свяжитесь с нами!</h2>
+<aside>
+    <p>
+        Мы бы хотели услышать о вас! </p>
+    <p>Пожалуйста, воспользуйтесь <b><em>Контактной формой</em></b>
+        чтобы отправить нам сообщение.
+    </p>
+</aside>
+
+<link rel="stylesheet" href="pure-min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="style.css">
+
+<form class="gform pure-form pure-form-stacked" method="POST" data-email="example@email.net"
+      action="https://script.google.com/macros/s/AKfycbwJ8BI5DYrxH3KKSj5yAn56HBJ8T10Sin-p4fC9/exec">
+
+    <div class="form-elements">
+        <fieldset class="pure-group">
+            <label for="name">Имя: </label>
+            <input id="name" name="name" placeholder="Как к вам обращаться?" />
+        </fieldset>
+
+        <fieldset class="pure-group">
+            <label for="message">Сообщение: </label>
+            <textarea id="message" name="message" rows="10"
+                      placeholder="Расскажите нам о себе..."></textarea>
+        </fieldset>
+
+        <fieldset class="pure-group">
+            <label for="email"><em>Ваш</em> адрес электронной почты:</label>
+            <input id="email" name="email" type="email" value=""
+                   required placeholder="*****@email.com"/>
+            <span class="email-invalid" style="display:none">
+          Нужно указать корректный адрес электронной почты</span>
+        </fieldset>
+
+        <fieldset class="pure-group">
+            <label for="phone">Телефон для связи с вами </label>
+            <input id="phone" name="phone" placeholder="" />
+        </fieldset>
+
+        <button class="button-success pure-button button-xlarge">
+            <i class="fa fa-paper-plane"></i>&nbsp;Отправить</button>
+    </div>
+
+    <div class="thankyou_message" style="display:none;">
+        <h2><em>Благодарим</em> за связь</h2>
+    </div>
+
+</form>
+
+<script data-cfasync="false" src="form-submission-handler.js"></script>
+
+</body>
+</html>
