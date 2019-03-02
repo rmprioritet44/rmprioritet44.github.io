@@ -288,24 +288,24 @@
 
     <div class="row works-content">
         <div class="col-full masonry-wrap">
-            <div class="masonry">
+            <div class="masonry" style="height: 1400px;">
 
                 <div class="masonry__brick" data-aos="fade-up">
                     <div class="item-folio">
 
                         <div class="item-folio__thumb">
-                            <a href="images/portfolio/gallery/g-shutterbug.jpg" class="thumb-link" title="Shutterbug" data-size="1050x700">
-                                <img src="images/portfolio/lady-shutterbug.jpg"
-                                     srcset="images/portfolio/lady-shutterbug.jpg 1x, images/portfolio/lady-shutterbug@2x.jpg 2x" alt="">
+                            <a href="images/portfolio/gallery/g-1.jpg" class="thumb-link" title="Shutterbug" data-size="1050x700">
+                                <img src="images/portfolio/g-1-preview.jpg"
+                                     srcset="images/portfolio/g-1-preview.jpg 1x, images/portfolio/g-1-preview.jpg 2x" alt="">
                             </a>
                         </div>
 
                         <div class="item-folio__text">
                             <h3 class="item-folio__title">
-                                Shutterbug
+                                Подарочные сертификаты
                             </h3>
                             <p class="item-folio__cat">
-                                Branding
+                                Полиграфия
                             </p>
                         </div>
 
@@ -324,18 +324,18 @@
                     <div class="item-folio">
 
                         <div class="item-folio__thumb">
-                            <a href="images/portfolio/gallery/g-woodcraft.jpg" class="thumb-link" title="Woodcraft" data-size="1050x700">
-                                <img src="images/portfolio/woodcraft.jpg"
-                                     srcset="images/portfolio/woodcraft.jpg 1x, images/portfolio/woodcraft@2x.jpg 2x" alt="">
+                            <a href="images/portfolio/b.jpg" class="thumb-link" title="Широкоформатная печать" data-size="1050x700">
+                                <img src="images/portfolio/b.jpg"
+                                     srcset="images/portfolio/b.jpg 1x, images/portfolio/b.jpg 2x" alt="">
                             </a>
                         </div>
 
                         <div class="item-folio__text">
                             <h3 class="item-folio__title">
-                                Woodcraft
+                                Баннеры, вывески
                             </h3>
                             <p class="item-folio__cat">
-                                Web Design
+                                Широкоформатная печать
                             </p>
                         </div>
 
@@ -362,10 +362,10 @@
 
                         <div class="item-folio__text">
                             <h3 class="item-folio__title">
-                                The Beetle
+                                Монтаж любой сложности
                             </h3>
                             <p class="item-folio__cat">
-                                Web Development
+                                Металлоконструкции
                             </p>
                         </div>
 
@@ -392,10 +392,10 @@
 
                         <div class="item-folio__text">
                             <h3 class="item-folio__title">
-                                Grow Green
+                                Изготовление по индивидуальному заказу
                             </h3>
                             <p class="item-folio__cat">
-                                Branding
+                                Дизайн
                             </p>
                         </div>
 
@@ -425,7 +425,7 @@
                                 Guitarist
                             </h3>
                             <p class="item-folio__cat">
-                                Web Design
+                                Монтажные работы
                             </p>
                         </div>
 
@@ -452,10 +452,10 @@
 
                         <div class="item-folio__text">
                             <h3 class="item-folio__title">
-                                Palmeira
+                                Логотипы
                             </h3>
                             <p class="item-folio__cat">
-                                Web Design
+                                Логотипы
                             </p>
                         </div>
 
@@ -569,23 +569,23 @@
 
             <h3 class="h6">Отправьте нам сообщение</h3>
 
-            <form name="contactForm" id="contactForm" method="post" action="" novalidate="novalidate">
+            <form class="gform pure-form pure-form-stacked" method="POST" action="https://script.google.com/macros/s/AKfycbwJ8BI5DYrxH3KKSj5yAn56HBJ8T10Sin-p4fC9/exec" data-email="example@email.net">
                 <fieldset>
 
                     <div class="form-field">
-                        <input name="contactName" type="text" id="contactName" placeholder="Ваше имя" value="" minlength="2" required="" aria-required="true" class="full-width">
+                        <input name="name" type="text" id="name" placeholder="Ваше имя" value="" minlength="2" required="" aria-required="true" class="full-width">
                     </div>
                     <div class="form-field">
-                        <input name="contactEmail" type="email" id="contactEmail" placeholder="Ваш электронный адрес" value="" required="" aria-required="true" class="full-width">
+                        <input name="email" type="email" id="email" placeholder="Ваш электронный адрес" value="" required="" aria-required="true" class="full-width">
                     </div>
                     <div class="form-field">
-                        <input name="contactSubject" type="text" id="contactSubject" placeholder="Тема письма" value="" class="full-width">
+                        <input name="phone" type="text" id="phone" placeholder="Тема письма" value="" class="full-width">
                     </div>
                     <div class="form-field">
-                        <textarea name="contactMessage" id="contactMessage" placeholder="Текст сообщения" rows="10" cols="50" required="" aria-required="true" class="full-width"></textarea>
+                        <textarea name="message" id="message" placeholder="Текст сообщения" rows="10" cols="50" required="" aria-required="true" class="full-width"></textarea>
                     </div>
                     <div class="form-field">
-                        <button class="full-width btn--primary">Submit</button>
+                        <button class="full-width btn--primary">Отправить</button>
                         <div class="submit-loader">
                             <div class="text-loader">Отправляем...</div>
                             <div class="s-loader">
@@ -597,17 +597,14 @@
                     </div>
 
                 </fieldset>
+
+                <!-- contact-success -->
+                <div class="thankyou_message" style="display:none;">
+                    <h2 style="color: #ffffff"><em>Благодарим</em> за связь</h2>
+                </div>
             </form>
 
-            <!-- contact-warning -->
-            <div class="message-warning">
-                Что-то пошло не так. Попробуйте еще раз.
-            </div>
 
-            <!-- contact-success -->
-            <div class="message-success">
-                Ваше сообщение отправлено. Благодарим за связь!<br>
-            </div>
 
         </div> <!-- end contact-primary -->
 
@@ -749,6 +746,8 @@
 <script src="js/jquery-3.2.1.min.js"></script>
 <script src="js/plugins.js"></script>
 <script src="js/main.js"></script>
+<script data-cfasync="false" src="form-submission-handler.js"></script>
+
 
 </body>
 
