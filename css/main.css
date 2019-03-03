@@ -1794,7 +1794,6 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-family: "montserrat-medium", sans-serif;
     font-size: 1.6rem;
     color: rgba(255, 255, 255, 0.5);
-    text-transform: uppercase;
     letter-spacing: .3rem;
     position: relative;
     margin-top: 0;
