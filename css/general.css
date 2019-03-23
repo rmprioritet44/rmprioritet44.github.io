@@ -1,0 +1,33 @@
+/*** ОБЩЕЕ ***/
+.burgundy {
+    background-color: #9B3441;
+}
+
+.burgundy-font-color {
+    color: #9B3441;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+.navbar-custom .nav-item > .nav-link.active {
+    color: #FFD68E;
+}
+
+section {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.font-weight-custom-bold {
+    font-weight: 700;
+}
+
+.font-weight-custom-bolder {
+    font-weight: 500;
+}
+
+.line-height-custom {
+    line-height: 1.2em;
+}
