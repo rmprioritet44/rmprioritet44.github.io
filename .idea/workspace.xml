@@ -2,198 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f178b55-a89c-4cf3-926c-009562e1149d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/ISSUE_TEMPLATE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/ROADMAP.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/_config.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/dist/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/dist/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/dist/assets/ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/dist/assets/owl.carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/dist/assets/owl.theme.default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/dist/assets/owl.theme.default.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/dist/assets/owl.theme.green.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/dist/assets/owl.theme.green.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/dist/assets/owl.video.play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/dist/owl.carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/dist/owl.carousel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/css/docs.theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/img/bird_blue_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/img/download.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/img/feature-drag.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/img/feature-modern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/img/feature-module.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/img/feature-options.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/img/feature-responsive.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/img/feature-zombie.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/img/owl-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/img/twitter_25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/js/foundation.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/owlcarousel/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.carousel.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.default.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.green.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.green.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.video.play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/owlcarousel/owl.carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/owlcarousel/owl.carousel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/vendors/foundation.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/vendors/highlight.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/vendors/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/vendors/jquery.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/assets/vendors/jquery.mousewheel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/demos/animate.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/demos/autoheight.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/demos/autoplay.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/demos/autowidth.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/demos/basic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/demos/center.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/demos/demos.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/demos/events.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/demos/lazyLoad.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/demos/merge.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/demos/mousewheel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/demos/responsive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/demos/rtl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/demos/stagepadding.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/demos/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/demos/urlhashnav.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/demos/video.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/docs/api-classes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/docs/api-events.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/docs/api-options.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/docs/dev-buildin-plugins.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/docs/dev-external.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/docs/dev-plugin-api.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/docs/dev-styles.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/docs/started-faq.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/docs/started-installation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/docs/started-welcome.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/docs/support-changelog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/docs/support-contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/docs/support-contributing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/img/bird_blue_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/img/download.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/img/feature-drag.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/img/feature-modern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/img/feature-module.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/img/feature-options.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/img/feature-responsive.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/img/feature-zombie.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/img/owl-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/img/twitter_25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/js/foundation.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/scss/_settings.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/scss/custom.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/scss/demos.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/scss/docs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/scss/docs.theme.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/scss/highlight.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/vendors/foundation.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/vendors/highlight.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/vendors/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/vendors/jquery.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/assets/vendors/jquery.mousewheel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/data/classes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/data/events.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/data/features.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/data/options.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/helpers/modulo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/helpers/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/layouts/demos.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/layouts/docs.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/layouts/home.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/animate.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/autoheight.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/autoplay.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/autowidth.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/basic.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/center.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/demos.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/events.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/lazyLoad.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/merge.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/mousewheel.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/responsive.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/rtl.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/stagepadding.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/test.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/urlhashnav.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/video.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/api-classes.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/api-events.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/api-options.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-buildin-plugins.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-external.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-plugin-api.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-styles.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/started-faq.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/started-installation.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/started-welcome.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/support-changelog.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/support-contact.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/support-contributing.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/pages/index.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/partials/footer.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/partials/head.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/partials/header.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/partials/home-carousel.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/partials/home-features.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/partials/home-hero.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/partials/home-teaser-text.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/partials/javascripts.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/partials/releated-docs.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/partials/sidenav-docs.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/partials/title.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/docs_src/templates/partials/vendors.hbs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/package-lock.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/img/ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/img/owl.video.play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/js/.jscsrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/js/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/js/owl.animate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/js/owl.autoheight.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/js/owl.autoplay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/js/owl.autorefresh.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/js/owl.carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/js/owl.hash.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/js/owl.lazyload.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/js/owl.navigation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/js/owl.support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/js/owl.support.modernizr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/js/owl.video.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/scss/_animate.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/scss/_autoheight.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/scss/_lazyload.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/scss/_theme.default.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/scss/_theme.green.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/scss/_theme.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/scss/_video.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/scss/owl.carousel.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/scss/owl.theme.default.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/scss/owl.theme.green.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/test/unit/autoplay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/test/unit/core.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -207,226 +17,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index123.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/archive/index123.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="629" column="77" lean-forward="false" selection-start-line="629" selection-start-column="77" selection-end-line="629" selection-end-column="77" />
-              <folding>
-                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#ul#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#h1#0;n#div#0;n#div#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#a#0;n#div#0;n#div#0;n#div#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#a#1;n#div#0;n#div#0;n#div#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#a#0;n#div#1;n#div#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#ul#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#0;n#ul#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#1;n#ul#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#div#1;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#1;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#div#1;n#div#1;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#2;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#2;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#div#1;n#div#2;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#3;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#3;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#3;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#div#1;n#div#3;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#4;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#4;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#4;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#div#1;n#div#4;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#5;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#5;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#div#1;n#div#5;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#h3#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#a#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#img#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#h3#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#a#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#img#0;n#a#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#h3#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#3;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#a#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#img#0;n#a#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#h3#0;n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#a#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#4;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#4;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#a#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#img#0;n#a#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#4;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#h3#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#a#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#0;n#div#4;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#5;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#5;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#a#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#img#0;n#a#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#5;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#h3#0;n#div#1;n#div#0;n#div#5;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#div#1;n#div#0;n#div#5;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#a#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#0;n#div#5;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#2;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#2;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#div#1;n#div#0;n#div#0;n#div#2;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#2;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#form#0;n#div#0;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#fieldset#0;n#form#0;n#div#0;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#fieldset#0;n#form#0;n#div#0;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#fieldset#0;n#form#0;n#div#0;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#fieldset#0;n#form#0;n#div#0;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#3;n#fieldset#0;n#form#0;n#div#0;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#4;n#fieldset#0;n#form#0;n#div#0;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#4;n#fieldset#0;n#form#0;n#div#0;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#4;n#fieldset#0;n#form#0;n#div#0;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#form#0;n#div#0;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#1;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#div#0;n#div#0;n#div#1;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#1;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#div#1;n#div#0;n#div#1;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#0;n#div#1;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#div#2;n#div#0;n#div#1;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#3;n#div#0;n#div#1;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#ul#0;n#div#3;n#div#0;n#div#1;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#0;n#ul#0;n#div#3;n#div#0;n#div#1;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#1;n#ul#0;n#div#3;n#div#0;n#div#1;n#div#3;n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1243">
-              <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+            <state relative-caret-position="374">
+              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#747#753#0" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#1042#1048#0" expanded="true" />
                 <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#2;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="slick-theme.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/slick/slick-theme.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="general.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/general.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="49" column="14" lean-forward="false" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/clients/1.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -434,16 +46,6 @@
         <entry file="file://$PROJECT_DIR$/сайт лист 1.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-              <folding />
-            </state>
           </provider>
         </entry>
       </file>
@@ -495,8 +97,8 @@
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/css/general.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -550,6 +152,11 @@
               <item name="rmprioritet44.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="rmprioritet44.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="archive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rmprioritet44.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rmprioritet44.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rmprioritet44.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -627,12 +234,12 @@
       <workItem from="1551486467725" duration="20963000" />
       <workItem from="1551598143507" duration="28000" />
       <workItem from="1551637486250" duration="1435000" />
-      <workItem from="1553341774045" duration="23533000" />
+      <workItem from="1553341774045" duration="25255000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45959000" />
+    <option name="totallyTimeSpent" value="47681000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1469,55 +1076,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/slick/slick-theme.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/general.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="14" lean-forward="false" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/clients/1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/сайт лист 1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1243">
-          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/archive/OwlCarousel2-2.3.4/src/js/owl.animate.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
@@ -1528,8 +1086,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/archive/index123.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="629" column="77" lean-forward="false" selection-start-line="629" selection-start-column="77" selection-end-line="629" selection-end-column="77" />
+        <state relative-caret-position="1717">
+          <caret line="623" column="0" lean-forward="true" selection-start-line="623" selection-start-column="0" selection-end-line="623" selection-end-column="0" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -1699,6 +1257,63 @@
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slick/slick-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/general.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="14" lean-forward="false" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/clients/1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/сайт лист 1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#747#753#0" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#1042#1048#0" expanded="true" />
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
