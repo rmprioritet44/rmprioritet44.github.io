@@ -31,3 +31,28 @@ section {
 .line-height-custom {
     line-height: 1.2em;
 }
+
+.advantage-cards .card {
+    border: 0;
+
+}
+
+.advantage-cards .card.border-dashed {
+    border-right: 1px dashed;
+}
+
+.advantage-img {
+    height: 70px;
+    width: 70px;
+}
+
+.pagewide {
+    height: 200px;
+    z-index: 9999;
+    background-color: white;
+}
+
+.slick-slide {
+    padding-top: 20px;
+    /*padding-left: 20p x;*/
+}
