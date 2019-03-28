@@ -37,9 +37,9 @@ section {
 
 }
 
-.advantage-cards .card.border-dashed {
-    border-right: 1px dashed;
-}
+/*.advantage-cards .card.border-dashed {*/
+    /*border-right: 1px dashed;*/
+/*}*/
 
 .advantage-img {
     height: 70px;
@@ -50,6 +50,24 @@ section {
     height: 200px;
     z-index: 9999;
     background-color: white;
+}
+
+@media (width: 576px) {
+    .navbar-custom {
+        margin-top: 0;
+    }
+}
+
+@media (min-width: 577px) {
+    .navbar-custom {
+        margin-top: 200px;
+    }
+}
+
+@media (min-width: 768px) {
+    .advantage-cards .card.border-dashed {
+        border-right: 1px dashed;
+    }
 }
 
 .vk-btn {
