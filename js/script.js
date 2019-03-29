@@ -5,6 +5,8 @@ $('.navbar-nav .nav-link').click(function(){
 
 $(document).ready(function(){
     $('.owl-carousel').owlCarousel({
+        navigation: true,
+        navText: ["<img src='images/leftBtn.png'>", "<img src='images/rightBtn.png'>"],
         autoWidth: true,
         items: 3,
         margin: 45,

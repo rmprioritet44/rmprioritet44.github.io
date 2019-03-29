@@ -52,15 +52,70 @@ section {
     background-color: white;
 }
 
+/*.owl-nav {*/
+    /*display: flex;*/
+    /*align-items: center;*/
+    /*justify-content: center;*/
+    /*padding-top: 25px;*/
+/*}*/
+
 @media (width: 576px) {
+    .main-container {
+        padding-top: 0;
+    }
+
     .navbar-custom {
         margin-top: 0;
     }
+
+    /*.owl-prev {*/
+        /*position: absolute;*/
+        /*width: 50px;*/
+        /*height: 50px;*/
+        /*top: 50%;*/
+        /*left: 50%;*/
+        /*display: block !important;*/
+        /*border: 0 solid black;*/
+    /*}*/
+
+    /*.owl-next {*/
+        /*position: absolute;*/
+        /*width: 50px;*/
+        /*height: 50px;*/
+        /*top: 50%;*/
+        /*left: 50%;*/
+        /*display: block !important;*/
+        /*border: 0 solid black;*/
+    /*}*/
 }
 
 @media (min-width: 577px) {
     .navbar-custom {
         margin-top: 200px;
+    }
+
+    .main-container {
+        padding-top: 170px;
+    }
+
+    .owl-prev {
+        width: 50px;
+        height: 50px;
+        position: absolute;
+        top: 20%;
+        margin-left: -90px;
+        display: block !important;
+        border: 0 solid black;
+    }
+
+    .owl-next {
+        width: 50px;
+        height: 50px;
+        position: absolute;
+        top: 20%;
+        right: -90px;
+        display: block !important;
+        border: 0 solid black;
     }
 }
 
@@ -71,13 +126,29 @@ section {
 }
 
 .vk-btn {
-    display: inline-block;
+    display: block;
     position: fixed;
-    background: white url("../images/vk5.png");
+    background: rgba(255, 255, 255, 0) url("../images/vk5.png");
     left: -1.2em;
     bottom: 120px;
     width: 60px;
-    height: 130px;
+    height: 120px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    box-shadow: none;
+    text-decoration: none;
+
+}
+
+.social-btn {
+    display: block;
+    position: fixed;
+    background: rgba(255, 255, 255, 0) url("../images/vk5.png");
+    left: -1.2em;
+    bottom: 200px;
+    width: 60px;
+    height: 120px;
     border: none;
     cursor: pointer;
     outline: none;
@@ -90,6 +161,18 @@ section {
 }
 
 .vk-btn__icon {
+    position: relative;
+    top: 55px;
+    left: 23px;
+    color: white;
+    font-size: 1.3em;
+}
+
+.social-btn:hover .social-btn__icon {
+    color: #4a76a8;
+}
+
+.social-btn__icon {
     position: relative;
     top: 55px;
     left: 23px;
