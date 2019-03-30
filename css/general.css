@@ -94,6 +94,21 @@ section {
         margin-top: 200px;
     }
 
+    .logo-mini {
+        width: 40%;
+        display: inline-block;
+    }
+
+    .logo-mini img {
+        width: 100%;
+    }
+
+    .info-mini {
+        height: 100%;
+        float: right;
+        max-width: 60%;
+    }
+
     .main-container {
         padding-top: 170px;
     }
@@ -120,9 +135,31 @@ section {
 }
 
 @media (min-width: 768px) {
+    .logo-mini {
+        display: inline-block;
+        width: 40%;
+        padding-top: 3em;
+        padding-left: 3em;
+    }
+
+    .logo-mini img {
+        width: 70%;
+    }
+
+    .info-mini {
+        height: 100%;
+        float: right;
+        max-width: 70%;
+    }
+
+    .info-mini img {
+        width: 100%;
+    }
+
     .advantage-cards .card.border-dashed {
         border-right: 1px dashed;
     }
+
 }
 
 .vk-btn {
