@@ -178,45 +178,77 @@
             </div>
         </div>
 
-        <div class="row">
-            <div class="">
-                <h3>Отправьте нам сообщение</h3>
 
-                <form class="gform" method="POST" action="https://script.google.com/macros/s/AKfycbwJ8BI5DYrxH3KKSj5yAn56HBJ8T10Sin-p4fC9/exec" data-email="example@email.net">
-                    <div class="form-group">
-                            <input name="name" type="text" id="name" placeholder="Ваше имя" value="" minlength="2" required="" aria-required="true" class="form-control">
-                    </div>
-                    <div class="form-group">
-                        <input name="email" type="email" id="email" placeholder="Ваш электронный адрес" value="" required="" aria-required="true" class="form-control">
-
-                    </div>
-                    <div class="form-group">
-                        <input name="phone" type="text" id="phone" placeholder="Контактный телефон (необязательно)" value="" class="form-control">
-
-                    </div>
-                    <div class="form-group">
-                        <textarea name="message" id="message" placeholder="Текст сообщения" rows="10" cols="50" required="" aria-required="true" class="form-control"></textarea>
-                    </div>
-                    <button class="btn btn-primary">Отправить</button>
-                    <div class="submit-loader">
-                        <div class="text-loader">Отправляем...</div>
-                        <div class="s-loader">
-                            <div class="bounce1"></div>
-                            <div class="bounce2"></div>
-                            <div class="bounce3"></div>
-                        </div>
-                    </div>
-
-                    <div class="thankyou_message" style="display:none;">
-                        <h2 style="color: #ffffff"><em>Благодарим</em> за связь</h2>
-                    </div>
-                </form>
-            </div>
-        </div>
     </section>
 
     <section style="height: 3000px;"></section>
 </main>
+
+<div class="email-form-btn">
+    <a data-toggle="modal" data-target="#myModal">
+        <i class="email-form-btn__icon fa fa-envelope"></i>
+    </a>
+</div>
+
+<!--<div class="email-form-btn">-->
+    <!--<button data-toggle="modal" data-target="#myModal">-->
+        <!--<i class="email-form-btn__icon fa fa-envelope"></i>-->
+    <!--</button>-->
+<!--</div>-->
+
+<div class="modal right fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="myModalLabel">Отправьте нам сообщение</h4>
+
+                <button class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="container">
+                    <div class="row">
+                        <div class="">
+                            <form class="gform" method="POST" action="https://script.google.com/macros/s/AKfycbwJ8BI5DYrxH3KKSj5yAn56HBJ8T10Sin-p4fC9/exec" data-email="example@email.net">
+                                <div class="form-group">
+                                    <input name="name" type="text" id="name" placeholder="Ваше имя" value="" minlength="2" required="" aria-required="true" class="form-control" autocomplete="off">
+                                </div>
+                                <div class="form-group">
+                                    <input name="email" type="email" id="email" placeholder="Ваш электронный адрес" value="" required="" aria-required="true" class="form-control" autocomplete="off">
+
+                                </div>
+                                <div class="form-group">
+                                    <input name="phone" type="text" id="phone" placeholder="Контактный телефон (необязательно)" value="" class="form-control" autocomplete="off">
+
+                                </div>
+                                <div class="form-group">
+                                    <textarea name="message" id="message" placeholder="Текст сообщения" rows="10" cols="50" required="" aria-required="true" class="form-control"></textarea>
+                                </div>
+                                <button class="btn btn-primary">Отправить</button>
+                                <!--<div class="submit-loader">-->
+                                    <!--<div class="text-loader">Отправляем...</div>-->
+                                    <!--<div class="s-loader">-->
+                                        <!--<div class="bounce1"></div>-->
+                                        <!--<div class="bounce2"></div>-->
+                                        <!--<div class="bounce3"></div>-->
+                                    <!--</div>-->
+                                <!--</div>-->
+
+                                <div class="thankyou_message" style="display:none;">
+                                    <h2 style="color: #ffffff"><em>Благодарим</em> за связь</h2>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
 
 <div class="social-btn">
     <a href="https://www.instagram.com/rmprioritet/" target="_blank">

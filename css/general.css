@@ -193,6 +193,35 @@ section {
     text-decoration: none;
 }
 
+.email-form-btn {
+    transform: scale(-1, 1);
+    display: block;
+    position: fixed;
+    background: rgba(255, 255, 255, 0) url("../images/vk5.png");
+    right: -1.2em;
+    bottom: 200px;
+    width: 60px;
+    height: 120px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    box-shadow: none;
+    text-decoration: none;
+}
+
+.email-form-btn:hover .email-form-btn__icon {
+    color: #4a76a8;
+}
+
+
+.email-form-btn__icon {
+    position: relative;
+    top: 55px;
+    left: 23px;
+    color: white;
+    font-size: 1.3em;
+}
+
 .vk-btn:hover .vk-btn__icon {
     color: #4a76a8;
 }
@@ -217,3 +246,37 @@ section {
     font-size: 1.3em;
 }
 
+
+/*** ОТПРАВКА ПОЧТЫ ***/
+.modal.right .modal-dialog {
+    position: fixed;
+    margin: auto;
+    width: 900px;
+    height: 100%;
+    transform: translate3d(0%, 0, 0);
+    top: 200px;
+}
+
+.modal.right .modal-content {
+    height: calc(100% - 200px);
+    /*overflow-y: auto;*/
+}
+
+.modal.right .modal-body {
+    padding: 15px 15px 80px;
+    right: 0;
+}
+
+.modal.right.fade .modal-dialog {
+    right: 0;
+    transition: opacity 0.3s linear, right 0.3s ease-out;
+}
+
+.modal.right.fade.in .modal-dialog {
+    right: -320px;
+}
+
+.modal-body {
+    margin-left: 0;
+    margin-right: 0;
+}
