@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <style>
+        .test-area {
+            margin-top: 400px;
+            margin-left: 500px;
+        }
+
+        .custom-button {
+            background-color: white;
+            padding: 15px 32px;
+            color: black;
+            font-size: 16px;
+            border: 2px solid #9e602b;
+            transition-duration: 0.5s;
+        }
+
+        .custom-button:hover {
+            background-color: #c77c36;
+        }
+
+        .email-form-btn {
+            transform: scale(-1, 1);
+            display: block;
+            position: fixed;
+            background: rgba(255, 255, 255, 0) url("images/vk5.png");
+            right: 2em;
+            bottom: 200px;
+            width: 60px;
+            height: 120px;
+            border: none;
+            cursor: pointer;
+            outline: none;
+            box-shadow: none;
+            text-decoration: none;
+        }
+
+        .email-form-btn:hover .email-form-btn__icon {
+            color: #4a76a8;
+        }
+
+
+        .email-form-btn__icon {
+            position: relative;
+            top: 55px;
+            left: 23px;
+            color: white;
+            font-size: 1.3em;
+        }
+
+    </style>
+</head>
+<body>
+<div class="email-form-btn">
+    <i class="email-form-btn__icon fa fa-envelope"></i>
+</div>
+<div class="spinner-border" role="status">
+    1235
+    <span class="sr-only">Loading...</span>
+</div>
+
+
+
+</body>
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script>
+    $('.email-form-btn').click(function(){
+        $('.email-form-btn').modal('show')
+    })
+</script>
+
+</html>

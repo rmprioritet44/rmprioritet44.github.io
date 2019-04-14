@@ -30,6 +30,10 @@ $(document).ready(function(){
             }
         }
     });
+
+    $('.email-form-btn').click(function(){
+        $('#myModal').modal('show')
+    })
 });
 
 // $(document).ready(function(){

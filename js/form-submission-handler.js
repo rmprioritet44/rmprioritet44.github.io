@@ -59,6 +59,16 @@
         return formData;
     }
 
+    function enableSendButton() {
+        $('#sendBtn').show();
+        $('#sendBtn').attr("disabled", false);
+    }
+
+    function hideForm() {
+        $('#myModal').modal('hide');
+        setTimeout(enableSendButton, 1000);
+    }
+
     function handleFormSubmit(event) {  // handles form submit without any jquery
         event.preventDefault();           // we are submitting via xhr below
         var form = event.target;
@@ -78,6 +88,8 @@
             }
         } else {
             disableAllButtons(form);
+            $('#sendBtn').hide();
+            $('.spinner').show();
             var url = form.action;
             var xhr = new XMLHttpRequest();
             xhr.open('POST', url);
@@ -86,16 +98,11 @@
             xhr.onreadystatechange = function() {
                 console.log(xhr.status, xhr.statusText);
                 console.log(xhr.responseText);
+                $('.spinner').hide();
+                $('.thankyou-message').show();
+                setTimeout(hideForm, 3000);
+
                 form.reset();
-                var formElements = form.querySelector(".form-elements")
-                if (formElements) {
-                    formElements.style.display = "none"; // hide form
-                }
-                var thankYouMessage = form.querySelector(".thankyou_message");
-                if (thankYouMessage) {
-                    thankYouMessage.style.display = "block";
-                }
-                return;
             };
             // url encode form data for sending as post data
             var encoded = Object.keys(data).map(function(k) {
