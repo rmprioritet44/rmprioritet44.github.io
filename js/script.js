@@ -33,7 +33,15 @@ $(document).ready(function(){
 
     $('.email-form-btn').click(function(){
         $('#myModal').modal('show')
-    })
+    });
+
+    $('.social-btn').click(function(){
+        window.open('https://www.instagram.com/rmprioritet/', '_blank')
+    });
+
+    $('.vk-btn').click(function(){
+        window.open('https://vk.com/rm_prioritet44', '_blank')
+    });
 });
 
 // $(document).ready(function(){
