@@ -69,6 +69,10 @@
         setTimeout(enableSendButton, 1000);
     }
 
+    function hideThankYouMessage() {
+        $('.thankyou-message').hide();
+    }
+
     function handleFormSubmit(event) {  // handles form submit without any jquery
         event.preventDefault();           // we are submitting via xhr below
         var form = event.target;
@@ -101,6 +105,7 @@
                 $('.spinner').hide();
                 $('.thankyou-message').show();
                 setTimeout(hideForm, 3000);
+                setTimeout(hideThankYouMessage, 3000);
 
                 form.reset();
             };
