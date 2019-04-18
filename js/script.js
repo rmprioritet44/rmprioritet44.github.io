@@ -42,16 +42,67 @@ $(document).ready(function(){
     $('.vk-btn').click(function(){
         window.open('https://vk.com/rm_prioritet44', '_blank')
     });
+
+    // $('[name="phone"]').keyup(function(e)
+    // {
+    //     if(e.keyCode > 36 && e.keyCode < 41)
+    //     {
+    //         return true;
+    //     }
+    //     if ((e.keyCode > 47 && e.keyCode <58) || (e.keyCode < 106 && e.keyCode > 95))
+    //     {
+    //         // this.value = this.value.replace(/(\d{3})(\d{3})(\d{2})(\d{2})$/);
+    //         this.value = this.value.replace(/()(\d{3})\-?/g,'$1-');
+    //         return true;
+    //     }
+    //     this.value = this.value.replace(/[^\-0-9]/g,'');
+    // });
+
+    function phoneMask() {
+        var num = $(this).val().replace(/\D/g,'');
+        var result = '';
+        if (num.length === 1) {
+            result = num
+        }
+        else if (num.length === 2) {
+            result = num.substring(0,1) + ' (' + num.substring(1,2);
+        }
+        else if (num.length === 3) {
+            result = num.substring(0,1) + ' (' + num.substring(1,3);
+        }
+        else if (num.length === 4) {
+            result = num.substring(0,1) + ' (' + num.substring(1,4);
+        }
+        else if (num.length === 5) {
+            result = num.substring(0,1) + ' (' + num.substring(1,4) + ') ' + num.substring(4,5);
+        }
+        else if (num.length === 6) {
+            result = num.substring(0,1) + ' (' + num.substring(1,4) + ') ' + num.substring(4,6);
+        }
+        else if (num.length === 7) {
+            result = num.substring(0,1) + ' (' + num.substring(1,4) + ') ' + num.substring(4,7);
+        }
+        else if (num.length === 8) {
+            result = num.substring(0,1) + ' (' + num.substring(1,4) + ') ' + num.substring(4,7) + '-' + num.substring(7,8);
+        }
+        else if (num.length === 9) {
+            result = num.substring(0,1) + ' (' + num.substring(1,4) + ') ' + num.substring(4,7) + '-' + num.substring(7,9);
+        }
+        else if (num.length === 10) {
+            result = num.substring(0,1) + ' (' + num.substring(1,4) + ') ' + num.substring(4,7) + '-' + num.substring(7,9) + '-' + num.substring(9, 10);
+        }
+        else if (num.length === 11) {
+            result = num.substring(0,1) + ' (' + num.substring(1,4) + ') ' + num.substring(4,7) + '-' + num.substring(7,9) + '-' + num.substring(9, 11);
+        }
+
+        if (num.substring(0,1) === '7') {
+            result = '+' + result;
+        }
+
+        $(this).val(result);
+    }
+    $('[name="phone"]').keyup(phoneMask);
 });
-//
-// document.addEventListener('DOMContentLoaded', () => {
-//     var cleave = new Cleave('.phone__input', {
-//         phone: true,
-//         phoneRegionCode: 'RU'
-//     });
-// });
-
-
 
 // $(document).ready(function(){
 //     $('.my-own-class').slick({
