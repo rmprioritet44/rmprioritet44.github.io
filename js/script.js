@@ -43,6 +43,15 @@ $(document).ready(function(){
         window.open('https://vk.com/rm_prioritet44', '_blank')
     });
 });
+//
+// document.addEventListener('DOMContentLoaded', () => {
+//     var cleave = new Cleave('.phone__input', {
+//         phone: true,
+//         phoneRegionCode: 'RU'
+//     });
+// });
+
+
 
 // $(document).ready(function(){
 //     $('.my-own-class').slick({
