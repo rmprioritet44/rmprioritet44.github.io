@@ -1,4 +1,8 @@
 /*** ОБЩЕЕ ***/
+html, body {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .burgundy {
     background-color: #9B3441;
 }
@@ -151,12 +155,14 @@ section {
     .logo-mini {
         display: inline-block;
         width: 40%;
-        padding-top: 3em;
-        padding-left: 3em;
+        /*padding-top: 3em;*/
+        /*padding-left: 3em;*/
     }
 
     .logo-mini img {
         width: 70%;
+        margin-top: 3em;
+        margin-left: 3em;
     }
 
     .info-mini {
