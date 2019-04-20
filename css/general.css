@@ -98,6 +98,18 @@ section {
         width: 100%;
         top: 0;
     }
+    .custom-form {
+        width: 70%;
+    }
+
+    #sendBtn {
+        /*height: 100px;*/
+        /*position: absolute;*/
+    }
+
+    .my-2gis-map {
+        height: 350px;
+    }
 }
 
 
@@ -149,6 +161,10 @@ section {
         width: 400px;
         top: 200px;
     }
+
+    .my-2gis-map {
+        height: 500px;
+    }
 }
 
 @media (min-width: 768px) {
@@ -177,6 +193,10 @@ section {
 
     .advantage-cards .card.border-dashed {
         border-right: 1px dashed;
+    }
+
+    .my-2gis-map {
+        height: 700px;
     }
 }
 
@@ -361,3 +381,4 @@ html {
 .thankyou-message {
     color: black;
 }
+

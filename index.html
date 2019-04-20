@@ -202,19 +202,18 @@
             <div class="modal-body">
                 <div class="container">
                     <div class="row">
-                        <div class="">
                             <form class="gform" method="POST" action="https://script.google.com/macros/s/AKfycbwJ8BI5DYrxH3KKSj5yAn56HBJ8T10Sin-p4fC9/exec" data-email="example@email.net">
-                                <div class="form-group">
+                                <div class="form-group mb-2 mb-sm-3">
                                     <input name="name" type="text" id="name" placeholder="Ваше имя" value="" minlength="2" required="" aria-required="true" class="form-control" autocomplete="off">
                                 </div>
-                                <div class="form-group">
+                                <div class="form-group mb-2 mb-sm-3">
                                     <input name="email" type="email" id="email" placeholder="Ваш электронный адрес" value="" required="" aria-required="true" class="form-control" autocomplete="off">
                                 </div>
-                                <div class="form-group">
+                                <div class="form-group mb-2 mb-sm-3">
                                     <input name="phone" type="text" id="phone" placeholder="Контактный телефон" value="" class="form-control" autocomplete="off">
                                 </div>
-                                <div class="form-group">
-                                    <textarea name="message" id="message" placeholder="Текст сообщения" rows="5" cols="50" class="form-control"></textarea>
+                                <div class="form-group mb-2 mb-sm-3">
+                                    <textarea name="message" id="message" placeholder="Текст сообщения" rows="4" cols="50" class="form-control"></textarea>
                                 </div>
                                 <div class="spinner"></div>
 
@@ -224,7 +223,6 @@
                                     <h2><em>Благодарим</em> за связь</h2>
                                 </div>
                             </form>
-                        </div>
                     </div>
                 </div>
 
@@ -243,23 +241,27 @@
     <i class="vk-btn__icon fa fa-vk"></i>
 </div>
 
-<a class="dg-widget-link" href="http://2gis.ru/kostroma/firm/4785603885424882/center/40.98093509674073,57.75149962086597/zoom/16?utm_medium=widget-source&utm_campaign=firmsonmap&utm_source=bigMap">
-    Посмотреть на карте Костромы
-</a>
-<div class="dg-widget-link">
-    <a href="http://2gis.ru/kostroma/firm/4785603885424882/photos/4785603885424882/center/40.98093509674073,57.75149962086597/zoom/17?utm_medium=widget-source&utm_campaign=firmsonmap&utm_source=photos">
-        Фотографии компании
+<div class="my-2gis-map">
+    <a class="dg-widget-link" href="http://2gis.ru/kostroma/firm/4785603885424882/center/40.98093509674073,57.75149962086597/zoom/16?utm_medium=widget-source&utm_campaign=firmsonmap&utm_source=bigMap">
+        Посмотреть на карте Костромы
     </a>
-</div>
-<div class="dg-widget-link">
-    <a href="http://2gis.ru/kostroma/center/40.980937,57.751284/zoom/16/routeTab/rsType/bus/to/40.980937,57.751284╎Приоритет, рекламная мастерская?utm_medium=widget-source&utm_campaign=firmsonmap&utm_source=route">
-        Найти проезд до Приоритет, рекламная мастерская
-    </a>
-</div>
-<script charset="utf-8" src="https://widgets.2gis.com/js/DGWidgetLoader.js"></script>
-<script charset="utf-8">new DGWidgetLoader({"width": "100%","height":"600px","borderColor":"#a3a3a3","pos":{"lat":57.75149962086597,"lon":40.98093509674073,"zoom":16},"opt":{"city":"kostroma"},"org":[{"id":"4785603885424882"}]});</script>
-<noscript style="color:#c00;font-size:16px;font-weight:bold;">Виджет карты использует JavaScript. Включите его в настройках вашего браузера.</noscript>
+    <div class="dg-widget-link">
+        <a href="http://2gis.ru/kostroma/firm/4785603885424882/photos/4785603885424882/center/40.98093509674073,57.75149962086597/zoom/17?utm_medium=widget-source&utm_campaign=firmsonmap&utm_source=photos">
+            Фотографии компании
+        </a>
+    </div>
+    <div class="dg-widget-link">
+        <a href="http://2gis.ru/kostroma/center/40.980937,57.751284/zoom/16/routeTab/rsType/bus/to/40.980937,57.751284╎Приоритет, рекламная мастерская?utm_medium=widget-source&utm_campaign=firmsonmap&utm_source=route">
+            Найти проезд до Приоритет, рекламная мастерская
+        </a>
+    </div>
 
+    <!--<script charset="utf-8" src="https://widgets.2gis.com/js/DGWidgetLoader.js"></script>-->
+    <script charset="utf-8" src="js/DGWidgetLoader.js"></script>
+    <script charset="utf-8">new DGWidgetLoader({"width": "100%","height":"100%","borderColor":"#a3a3a3","pos":{"lat":57.75149962086597,"lon":40.98093509674073,"zoom":16},"opt":{"city":"kostroma"},"org":[{"id":"4785603885424882"}]});</script>
+    <noscript style="color:#c00;font-size:16px;font-weight:bold;">Виджет карты использует JavaScript. Включите его в настройках вашего браузера.</noscript>
+
+</div>
 </body>
 <script src="js/jquery-3.2.1.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
