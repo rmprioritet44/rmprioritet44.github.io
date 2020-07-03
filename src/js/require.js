@@ -13319,7 +13319,7 @@ var requirejs, require, define, xpcUtil;
                      *
                      *  {
 	 *    version : 3,
-	 *    file: "app.js",
+	 *    file: "index.js",
 	 *    sections: [{
 	 *      offset: {line:100, column:10},
 	 *      map: {

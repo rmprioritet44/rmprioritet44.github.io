@@ -2,91 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f178b55-a89c-4cf3-926c-009562e1149d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.prod.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/general.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/general.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/owl.carousel.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/owl.carousel.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/advantage-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/advantage-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/advantage-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/advantage-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/advantage-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/advantage-3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/advantage-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/advantage-4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/background-mini.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/background-mini.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/background-mini2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/background.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/clients/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/clients/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/clients/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/clients/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/clients/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/abc/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/clients/abc/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/abc/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/clients/abc/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/abc/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/clients/abc/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/abc/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/clients/abc/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/abc/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/clients/abc/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/abc/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/clients/abc/6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/gazprombank.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/clients/gazprombank.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/winter tale.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/clients/winter tale.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/Новая папка/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/clients/Новая папка/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/Новая папка/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/clients/Новая папка/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/Новая папка/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/clients/Новая папка/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/Новая папка/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/clients/Новая папка/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/Новая папка/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/clients/Новая папка/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/Новая папка/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/clients/Новая папка/6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/leftBtn.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/leftBtn.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/location.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/location.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo-mini.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/logo-mini.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo-mini2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/logo-mini2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/phone.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/rightBtn.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/rightBtn.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/vk-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/vk-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/vk.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/vk.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/vk2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/vk2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/vk3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/vk3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/vk4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/vk4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/vk5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/vk5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/DGWidgetLoader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/DGWidgetLoader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/cleave-phone.ru.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/cleave-phone.ru.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/cleave.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/cleave.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/form-submission-handler.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/form-submission-handler.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/owl.carousel.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/require.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/require.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/slick.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/slick.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slick/ajax-loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/slick/ajax-loader.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slick/config.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/slick/config.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slick/fonts/slick.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/slick/fonts/slick.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slick/fonts/slick.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/slick/fonts/slick.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slick/fonts/slick.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/slick/fonts/slick.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slick/fonts/slick.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/slick/fonts/slick.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slick/slick-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/slick/slick-theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slick/slick-theme.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/slick/slick-theme.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slick/slick-theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/slick/slick-theme.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slick/slick.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/slick/slick.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slick/slick.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/slick/slick.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slick/slick.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/slick/slick.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slick/slick.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/slick/slick.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slick/slick.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/slick/slick.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/styles.html" beforeDir="false" afterPath="$PROJECT_DIR$/archive/styles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/general.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/general.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/require.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/require.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,31 +57,33 @@
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/webpack-static-site-example" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\rmprioritet44.github.io\src\assets" />
       <recent name="C:\rmprioritet44.github.io\src" />
       <recent name="C:\rmprioritet44.github.io\images" />
       <recent name="C:\rmprioritet44.github.io\archive" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\rmprioritet44.github.io\js" />
       <recent name="C:\rmprioritet44.github.io" />
-      <recent name="C:\rmprioritet44.github.io\css" />
-      <recent name="C:\rmprioritet44.github.io\archive" />
-      <recent name="C:\rmprioritet44.github.io\images" />
+      <recent name="C:\rmprioritet44.github.io\src\fonts" />
+      <recent name="C:\rmprioritet44.github.io\src" />
+      <recent name="C:\rmprioritet44.github.io\src\assets\images" />
+      <recent name="C:\rmprioritet44.github.io\js" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html (1)">
-    <configuration name="index123.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/rmprioritet44.github.io/archive/index123.html">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/rmprioritet44.github.io/dist/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/rmprioritet44.github.io/index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/rmprioritet44.github.io/src/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/rmprioritet44.github.io/test.html">
@@ -164,19 +96,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.index123.html" />
       <item itemvalue="JavaScript Debug.index.html (1)" />
       <item itemvalue="JavaScript Debug.test.html" />
+      <item itemvalue="JavaScript Debug.index.html" />
       <item itemvalue="Node.js.456.js" />
       <item itemvalue="Node.js.script.js" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="Node.js.script.js" />
         <item itemvalue="Node.js.456.js" />
-        <item itemvalue="JavaScript Debug.test.html" />
-        <item itemvalue="JavaScript Debug.index123.html" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +148,9 @@
       <workItem from="1555706681177" duration="3522000" />
       <workItem from="1555753104510" duration="5679000" />
       <workItem from="1593595919936" duration="436000" />
-      <workItem from="1593635633849" duration="1991000" />
+      <workItem from="1593635633849" duration="2943000" />
+      <workItem from="1593689787761" duration="18601000" />
+      <workItem from="1593767341890" duration="10680000" />
     </task>
     <servers />
   </component>
@@ -224,10 +158,14 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1593596357332">
+    <state x="252" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593774901162">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593596357332" />
+    <state x="252" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593774901162" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1593702501133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593702501133" />
     <state width="1898" height="244" key="GridCell.Tab.0.bottom" timestamp="1593596358171">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -292,5 +230,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1898" height="244" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593596358173" />
+    <state x="187" y="255" width="585" height="530" key="find.popup" timestamp="1593720260613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="187" y="255" width="585" height="530" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593720260613" />
   </component>
 </project>

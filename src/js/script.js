@@ -4,32 +4,32 @@ $('.navbar-nav .nav-link').click(function(){
 });
 
 $(document).ready(function(){
-    $('.owl-carousel').owlCarousel({
-        navigation: true,
-        navText: ["<img src='images/leftBtn.png'>", "<img src='images/rightBtn.png'>"],
-        autoWidth: true,
-        items: 3,
-        margin: 45,
-        nav: true,
-        loop: true,
-        autoplay: true,
-        autoplayTimeout: 5000,
-        autoplayHoverPause: true,
-        responsive: {
-            0:{
-                items:1,
-                nav:true
-            },
-            600:{
-                items:2,
-                nav:true
-            },
-            1000:{
-                items:3,
-                nav:true
-            }
-        }
-    });
+    // $('.owl-carousel').owlCarousel({
+    //     navigation: true,
+    //     navText: ["<img src='/images/leftBtn.png'>", "<img src='images/rightBtn.png'>"],
+    //     autoWidth: true,
+    //     items: 3,
+    //     margin: 45,
+    //     nav: true,
+    //     loop: true,
+    //     autoplay: true,
+    //     autoplayTimeout: 5000,
+    //     autoplayHoverPause: true,
+    //     responsive: {
+    //         0:{
+    //             items:1,
+    //             nav:true
+    //         },
+    //         600:{
+    //             items:2,
+    //             nav:true
+    //         },
+    //         1000:{
+    //             items:3,
+    //             nav:true
+    //         }
+    //     }
+    // });
 
     $('.email-form-btn').click(function(){
         $('#myModal').modal('show')
