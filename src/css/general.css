@@ -352,3 +352,20 @@ html {
     color: black;
 }
 
+<!-- УСЛУГИ -->
+.service-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.service-item {
+    display: block;
+    position: relative;
+    padding: 0;
+    vertical-align: middle;
+    font-size: 1.2em;
+}
+
+.service-item .fa {
+    padding-right: 10px;
+}

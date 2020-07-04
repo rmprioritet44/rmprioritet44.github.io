@@ -161,8 +161,21 @@
     </section>
     <section id="serviceSection" class="d-none">
         <div class="row">
-            <div class="col-lg-8 offset-md-2">
-                <h4 class="burgundy-font-color text-center pt-md-5 mb-5 pt-sm-1">НАШИ УСЛУГИ</h4>
+            <div class="col-lg-6 offset-md-3">
+                <h4 class="burgundy-font-color text-center pt-md-5 mb-2 pt-sm-1">НАШИ УСЛУГИ</h4>
+                <div class="service-group">
+                    <div class="service-item"><span><span class="fa fa-caret-right burgundy-font-color"></span>Широкоформатная и интерьерная печать</span></div>
+                    <div class="service-item"><span><span class="fa fa-caret-right burgundy-font-color"></span>Рекламные и фасадные вывески</span></div>
+                    <div class="service-item"><span><span class="fa fa-caret-right burgundy-font-color"></span>Объемные буквы и короба</span></div>
+                    <div class="service-item"><span><span class="fa fa-caret-right burgundy-font-color"></span>Указатели, таблички, стенды</span></div>
+                    <div class="service-item"><span><span class="fa fa-caret-right burgundy-font-color"></span>Декор из пенополистирола</span></div>
+                    <div class="service-item"><span><span class="fa fa-caret-right burgundy-font-color"></span>Брендирование авто (в собственном боксе)</span></div>
+                    <div class="service-item"><span><span class="fa fa-caret-right burgundy-font-color"></span>Металлокаркасы</span></div>
+                    <div class="service-item"><span><span class="fa fa-caret-right burgundy-font-color"></span>Плоттерная резка</span></div>
+                    <div class="service-item"><span><span class="fa fa-caret-right burgundy-font-color"></span>Дизайн рекламы</span></div>
+                    <div class="service-item"><span><span class="fa fa-caret-right burgundy-font-color"></span>Монтажные работы</span></div>
+                    <div class="service-item"><span><span class="fa fa-caret-right burgundy-font-color"></span>Ремонт и обслуживание вывесок</span></div>
+                </div>
             </div>
         </div>
     </section>
@@ -253,7 +266,6 @@
     }
 
     function getTabFromLocalStorage() {
-        debugger;
         const tabFromLocalStorage = localStorage.getItem('selectedTab') || 'mainTab'
         document.getElementById(tabFromLocalStorage).classList.add('active')
         let sectionId = getSectionId(tabFromLocalStorage)
