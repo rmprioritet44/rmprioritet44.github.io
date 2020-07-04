@@ -2,39 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f178b55-a89c-4cf3-926c-009562e1149d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/css/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/router.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/CONTRIBUTING.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/ISSUE_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/README.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/component.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/slick.jquery.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/slick/ajax-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/slick/config.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/slick/fonts/slick.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/slick/fonts/slick.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/slick/fonts/slick.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/slick/fonts/slick.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/slick/slick-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/slick/slick-theme.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/slick/slick-theme.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/slick/slick.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/slick/slick.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/slick/slick.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/slick/slick.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive/slick-1.8.1/slick/slick.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/general.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/general.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,9 +87,9 @@
     <list>
       <item itemvalue="JavaScript Debug.index.html (1)" />
       <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index.html (2)" />
       <item itemvalue="Node.js.456.js" />
       <item itemvalue="Node.js.script.js" />
-      <item itemvalue="JavaScript Debug.index.html (2)" />
     </list>
     <recent_temporary>
       <list>
@@ -271,8 +241,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/js/script.js</url>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/js/router.js</url>
+          <line>3</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -68,22 +68,22 @@
     <div class="collapse navbar-collapse" id="collapsibleNavbar">
         <ul class="navbar-nav mx-auto">
             <li class="nav-item">
-                <a class="nav-link active" href="#">ГЛАВНАЯ</a>
+                <a class="nav-link" id="mainTab" href="#">ГЛАВНАЯ</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">УСЛУГИ</a>
+                <a class="nav-link" id="serviceTab" href="#">УСЛУГИ</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">ТРЕБОВАНИЯ К МАКЕТАМ</a>
+                <a class="nav-link" id="requirementsTab" href="#">ТРЕБОВАНИЯ К МАКЕТАМ</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">ФОТОГАЛЕРЕЯ</a>
+                <a class="nav-link" id="galleryTab" href="#">ФОТОГАЛЕРЕЯ</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">КОНТАКТЫ</a>
+                <a class="nav-link" id="contactTab" href="#">КОНТАКТЫ</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">СДЕЛАТЬ ЗАКАЗ</a>
+                <a class="nav-link" id="orderTab" href="#">СДЕЛАТЬ ЗАКАЗ</a>
             </li>
         </ul>
     </div>
@@ -245,4 +245,20 @@
 <!--<script src="src/js/owl.carousel.min.js"></script>-->
 <!--<script src="src/js/script.js"></script>-->
 <!--<script data-cfasync="false" src="src/js/form-submission-handler.js"></script>-->
+<script>
+    function getTabFromLocalStorage() {
+        const tabFromLocalStorage = localStorage.getItem('selectedTab') || 'mainTab'
+        document.getElementById(tabFromLocalStorage).classList.add('active')
+    }
+
+    $(document).ready(function(){
+        $('.navbar .nav-link').click(function(e){
+            e.preventDefault();
+            localStorage.setItem('selectedTab', e.currentTarget.id)
+            $(this).tab('show')
+        })
+    })
+
+    document.addEventListener("DOMContentLoaded", getTabFromLocalStorage);
+</script>
 </html>
