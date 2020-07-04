@@ -248,11 +248,15 @@
 </body>
 <!--<script data-cfasync="false" src="src/js/form-submission-handler.js"></script>-->
 <script>
+    function getSectionId(tabId) {
+        return '#' + tabId.replace('Tab', 'Section')
+    }
+
     function getTabFromLocalStorage() {
         debugger;
         const tabFromLocalStorage = localStorage.getItem('selectedTab') || 'mainTab'
         document.getElementById(tabFromLocalStorage).classList.add('active')
-        let sectionId = '#'+tabFromLocalStorage.replace('Tab', 'Section')
+        let sectionId = getSectionId(tabFromLocalStorage)
         $(sectionId).removeClass('d-none')
     }
 
@@ -264,9 +268,8 @@
             if (selectedTab !== clickedTabId) {
                 localStorage.setItem('selectedTab', clickedTabId)
                 $(this).tab('show')
-                let oldSectionId = '#'+selectedTab.replace('Tab', 'Section')
-                let sectionId = '#'+clickedTabId.replace('Tab', 'Section')
-                debugger;
+                let oldSectionId = getSectionId(selectedTab)
+                let sectionId = getSectionId(clickedTabId)
                 $(sectionId).removeClass('d-none')
                 $(oldSectionId).addClass('d-none')
             }
