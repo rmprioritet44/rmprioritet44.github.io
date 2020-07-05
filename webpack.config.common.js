@@ -13,7 +13,7 @@ module.exports = {
     jQuery: 'jQuery'
   },
   plugins: [
-    new CleanWebpackPlugin(),
+    // new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
       filename: './index.html',
       inject: true,

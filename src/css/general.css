@@ -33,11 +33,11 @@ html, body {
 }
 
 .navbar-custom .navbar-nav .nav-link {
-    color: #ffffff;
+    color: #ffffff !important;
 }
 
 .navbar-custom .nav-item > .nav-link.active {
-    color: #FFD68E;
+    color: #FFD68E !important;
 }
 
 section {
