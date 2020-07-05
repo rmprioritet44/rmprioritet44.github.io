@@ -21,7 +21,7 @@ html, body {
 }
 
 .burgundy {
-    background-color: #9B3441;
+    background-color: #9B3441 !important;
 }
 
 .burgundy-font-color {
