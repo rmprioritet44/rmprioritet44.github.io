@@ -245,7 +245,7 @@ section {
     top: 55px;
     left: 23px;
     color: white;
-    font-size: 1.3em;
+    font-size: 1.3em !important;
 }
 
 .vk-btn:hover .vk-btn__icon {
@@ -257,7 +257,7 @@ section {
     top: 55px;
     left: 23px;
     color: white;
-    font-size: 1.3em;
+    font-size: 1.3em !important;
 }
 
 .social-btn:hover .social-btn__icon {
@@ -269,7 +269,7 @@ section {
     top: 55px;
     left: 23px;
     color: white;
-    font-size: 1.3em;
+    font-size: 1.7em !important;
 }
 
 
