@@ -9,6 +9,9 @@ module.exports = {
     filename: '[name].[contenthash].js',
     path: path.resolve(__dirname, 'dist')
   },
+  externals: {
+    jQuery: 'jQuery'
+  },
   plugins: [
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
@@ -46,10 +49,10 @@ module.exports = {
         use: [
           {
             loader: 'file-loader',
-            options: {
-              name: '[name].[ext]',
-              outputPath: 'fonts/'
-            }
+            // options: {
+            //   name: '[name].[ext]',
+            //   outputPath: 'fonts/'
+            // }
           }
         ]
       },
